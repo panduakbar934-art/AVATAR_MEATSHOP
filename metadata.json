@@ -1,0 +1,7 @@
+{
+  "name": "Avatar Meatshop",
+  "description": "Website e-commerce daging sapi dan ayam berkualitas, grosir dan eceran dengan simulasi inventaris lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
