@@ -274,4 +274,25 @@ export const INITIAL_PRODUCTS: Product[] = [
       origin: 'Potongan Iga Sapi Harian',
     },
   },
+  // 14. Paha Ayam
+  {
+    id: 'AVT-014',
+    name: 'Paha Ayam',
+    category: 'Produk Ayam',
+    description: 'Potongan paha ayam mentah segar (paha utuh / paha bawah / drumstick) berdaging tebal, gurih, dan juicy. Sangat cocok untuk ayam goreng, opor ayam, ungkep lengkuas, panggangan, dan semur.',
+    price: 40000,
+    unit: 'kg',
+    stock: 40.0,
+    cost_price: 31000,
+    image: 'https://images.unsplash.com/photo-1587593810167-a84920ea0781?auto=format&fit=crop&w=800&q=80',
+    imageId: null,
+    isActive: true,
+    isFeatured: true,
+    specifications: {
+      cut: 'Paha Ayam Segar (Bone-in)',
+      storage: 'Chilled (0 - 4°C)',
+      packaging: 'Pack Higienis Food Grade',
+      origin: 'Ayam Segar Potong Harian',
+    },
+  },
 ];

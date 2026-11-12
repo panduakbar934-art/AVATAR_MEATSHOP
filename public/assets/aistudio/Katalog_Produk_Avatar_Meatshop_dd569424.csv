@@ -1,4 +1,4 @@
-﻿Tabel Katalog Produk Avatar Meatshop;;;;;
+Tabel Katalog Produk Avatar Meatshop;;;;;
 ;;;;;
 No.;Nama Produk;Kategori;Satuan;Harga;Gambar
 1;Daging Sapi;Daging Sapi;1 Kg;Rp135.000;
@@ -14,5 +14,6 @@ No.;Nama Produk;Kategori;Satuan;Harga;Gambar
 11;Trimin Ayam;Produk Ayam;1 Kg;Rp48.000;
 12;Babat;Jeroan Sapi;1 Kg;Rp60.000;
 13;Iga;Tulang Sapi;1 Kg;Rp85.000;
+14;Paha Ayam;Produk Ayam;1 Kg;Rp48.000;
 ;;;;;
 ;;;;;
