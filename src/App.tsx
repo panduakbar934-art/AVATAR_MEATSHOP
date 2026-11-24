@@ -8,6 +8,7 @@ import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { CartDrawer } from './components/CartDrawer';
 import { WhatsAppFloating } from './components/WhatsAppFloating';
+import { FloatingCartButton } from './components/FloatingCartButton';
 
 // Customer Pages
 import { Home } from './pages/Home';
@@ -51,6 +52,7 @@ const CustomerLayout: React.FC = () => {
         <Outlet />
       </main>
       <CartDrawer />
+      <FloatingCartButton />
       <WhatsAppFloating />
       <Footer />
     </div>
